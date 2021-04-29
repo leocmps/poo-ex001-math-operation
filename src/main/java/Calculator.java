@@ -167,6 +167,7 @@ public class Calculator extends javax.swing.JFrame {
     private void btnCleanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCleanActionPerformed
         txtNum1.setText("");
         txtNum2.setText("");
+        lblResult.setText("");
     }//GEN-LAST:event_btnCleanActionPerformed
 
     /**
