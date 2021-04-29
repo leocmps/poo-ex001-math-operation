@@ -6,8 +6,6 @@ Exercício 01 - Operação Matemática
 
 ## Telas ->
 
-![assets/img01.png]
-![assets/img02.png]
-![assets/img03.png]
-![assets/img04.png]
-![assets/img05.png]
+<p align="center">
+  <img width="470" src="assets/img01.png">
+</p>
