@@ -1,6 +1,6 @@
 # poo-ex001-math-operation
-Disciplina: Programação Orientada a Objetos
-Exercício 01 - Operação Matemática
+### Disciplina: Programação Orientada a Objetos
+#### Exercício 01 - Operação Matemática
 
 # Calculadora
 
